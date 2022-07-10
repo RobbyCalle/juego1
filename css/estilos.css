@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 100%;
+    background-image: url(/juego1/images/fondo.jpg);
+    margin-top: 50px;  
+    
+}
+button{
+    background-color:gold;
+    height: 50px;
+    width: 100px;
+    border-radius: 40px;
+    margin-left: 55px;
+}
+h1{
+    font-size: 50px;
+    color:white;
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

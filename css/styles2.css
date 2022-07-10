@@ -1,0 +1,39 @@
+body{
+    background-size: 100%;
+    background-image: url(/juego1/images/fondo2.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid yellow;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 40px;
+}
+div:hover a{
+    color: yellow;
+}
